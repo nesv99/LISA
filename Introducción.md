@@ -1,3 +1,3 @@
 # LISA
 ## Introducción
-### Lema: Tu herramienta de aprendizaje ilustrativo y adaptativo
+##### Lema: Tu herramienta de aprendizaje ilustrativo y adaptativo
