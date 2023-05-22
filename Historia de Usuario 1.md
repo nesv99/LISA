@@ -6,3 +6,8 @@
 ##### 4.	La aplicación carga la foto seleccionada y la prepara para el procesamiento de la IA.
 ##### 5.  Se muestra al usuario la imagen generada con IA basada en la foto seleccionada.
 ## Análisis de impacto de cambios
+##### 1.	Identificar las áreas del código que están involucradas en el procesamiento de la foto seleccionada y generación de la imagen con IA.
+##### 2.	Analizar cómo afectaría un cambio en el algoritmo de generación de imágenes o en la forma en que se carga y procesa la foto seleccionada.
+##### 3.	Evaluar el impacto potencial en la lógica de procesamiento, los recursos necesarios o los tiempos de respuesta.
+##### 4.	Realizar pruebas de regresión para verificar que el cambio no afecte negativamente la funcionalidad existente.
+##### 5.	Documentar los resultados del análisis de impacto y considerar ajustes en la implementación si es necesario.
