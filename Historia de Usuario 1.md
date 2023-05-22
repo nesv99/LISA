@@ -5,3 +5,4 @@
 ##### 3.	El usuario navega por sus archivos y selecciona la foto deseada.
 ##### 4.	La aplicación carga la foto seleccionada y la prepara para el procesamiento de la IA.
 ##### 5.  Se muestra al usuario la imagen generada con IA basada en la foto seleccionada.
+## Análisis de impacto de cambios
