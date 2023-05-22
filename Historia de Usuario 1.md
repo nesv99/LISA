@@ -30,6 +30,6 @@
 ##### 4.	Verificar que los resultados obtenidos en las pruebas coincidan con los resultados esperados.
 ##### 5.	Si se detecta algún problema o discrepancia, investigar y corregir los errores antes de marcar la historia de usuario como completa.
 ## Ciclo de Vida de Software
-##### 1. Planificación:
-#####    •	Definir los objetivos específicos de la historia de usuario y los requisitos necesarios para implementar la generación de imágenes con IA.
-#####    •	Estimar el tiempo y los recursos necesarios para desarrollar la funcionalidad requerida.
+### 1. Planificación:
+##### 1.1. Definir los objetivos específicos de la historia de usuario y los requisitos necesarios para implementar la generación de imágenes con IA.
+##### 1.2. Estimar el tiempo y los recursos necesarios para desarrollar la funcionalidad requerida.
