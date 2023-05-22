@@ -111,7 +111,7 @@
 ##### •	Utilizar un esquema de numeración de versiones (por ejemplo, SemVer) para indicar cambios significativos o correcciones de errores.
 ### 6.	Gestión de ramas:
 ##### •	Mantener un flujo de trabajo de ramas adecuado, creando nuevas ramas para trabajar en características adicionales o solucionar#####  problemas.
-##### •	Fusionar las ramas secundarias con la rama principal una vez que las características estén completas y probadas.##### 
+##### •	Fusionar las ramas secundarias con la rama principal una vez que las características estén completas y probadas. 
 ### 7.	Control de conflictos:
 ##### •	Resolver los conflictos de fusión ### que puedan surgir durante el proceso de integración y colaboración con otros desarrolladores.
 ##### •	Utilizar herramientas y enfoques para manejar los conflictos y asegurar una integración exitosa.
