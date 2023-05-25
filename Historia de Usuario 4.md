@@ -1,5 +1,5 @@
-Como usuario, quiero compartir las imágenes generadas con IA en redes sociales y aplicaciones de mensajería.
-Paso a paso:
+# Como usuario, quiero compartir las imágenes generadas con IA en redes sociales y aplicaciones de mensajería.
+## Paso a paso:
 1.	Después de que se muestra la imagen generada con IA, el usuario tiene la opción de compartirla.
 2.	El usuario selecciona la opción de compartir y se abre un menú con diferentes opciones de redes sociales y aplicaciones de mensajería.
 3.	El usuario elige la plataforma deseada y se muestra la interfaz de publicación o envío de mensajes.
