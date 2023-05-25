@@ -1,11 +1,11 @@
-Como usuario, quiero tener acceso a un historial de las imágenes generadas con IA anteriormente.
-Paso a paso:
-1.	El usuario abre la aplicación de generación de imágenes con IA.
-2.	Se muestra una sección de historial o galería que contiene miniaturas de las imágenes generadas anteriormente.
-3.	El usuario puede desplazarse por el historial y ver las imágenes previamente generadas.
-4.	Si el usuario selecciona una imagen del historial, se muestra en tamaño completo.
-5.	El usuario puede realizar acciones adicionales con las imágenes del historial, como compartirlas, eliminarlas o aplicarles ajustes adicionales si es posible.
-Análisis de impacto de cambios
+# Como usuario, quiero tener acceso a un historial de las imágenes generadas con IA anteriormente.
+## Paso a paso:
+##### 1.	El usuario abre la aplicación de generación de imágenes con IA.
+##### 2.	Se muestra una sección de historial o galería que contiene miniaturas de las imágenes generadas anteriormente.
+##### 3.	El usuario puede desplazarse por el historial y ver las imágenes previamente generadas.
+##### 4.	Si el usuario selecciona una imagen del historial, se muestra en tamaño completo.
+##### 5.	El usuario puede realizar acciones adicionales con las imágenes del historial, como compartirlas, eliminarlas o aplicarles ajustes adicionales si es posible.
+## Análisis de impacto de cambios
 1.	Identificar las partes del código que gestionan el almacenamiento y acceso al historial de imágenes generadas.
 2.	Evaluar cómo afectaría un cambio en la estructura de datos utilizada para almacenar el historial.
 3.	Analizar el impacto en el rendimiento si se agregan más imágenes al historial.
