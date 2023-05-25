@@ -1,5 +1,5 @@
-Como usuario, quiero poder guardar las imágenes generadas con IA en mi dispositivo.
-Paso a paso:
+# Como usuario, quiero poder guardar las imágenes generadas con IA en mi dispositivo.
+## Paso a paso:
 1.	Después de que se muestra la imagen generada con IA, el usuario tiene la opción de guardarla.
 2.	El usuario selecciona la opción de guardar y la aplicación procesa y guarda la imagen en la galería o carpeta designada del dispositivo.
 3.	Se muestra una confirmación al usuario indicando que la imagen se ha guardado exitosamente.
